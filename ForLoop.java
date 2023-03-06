@@ -7,7 +7,7 @@ public class ForLoop {
 		for(int i=0;i<10;i++)
 		{
 			System.out.println(i);
-			System.out.println("new changes");
+			System.out.println("new changes1");
 		}
 	}
 
